@@ -24,7 +24,7 @@ Installation
 
 Clonez ce dépôt sur votre machine locale :
 
-git clone https://github.com/henry/auto-clone.git
+git clone https://github.com/Henry51100/auto-clone.git
 cd auto-clone
 
 Installez les dépendances nécessaires (si applicable) :
